@@ -1,0 +1,1 @@
+document.title = document.getElementById("statename").textContent + " - " + document.title;
