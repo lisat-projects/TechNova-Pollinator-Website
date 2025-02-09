@@ -1,7 +1,6 @@
 export default function CreditsPage() {
   return (
     <>
-      
       <h1>Credits</h1>
 
       <ul>
@@ -25,11 +24,11 @@ export default function CreditsPage() {
         <p>Facts about pollinators</p>
 
         <a
-          href="https://projectdragonfly.miamioh.edu/great-pollinator-project/conservation/major-threats-to-pollinators/"
+          href="https://www.fws.gov/initiative/pollinators/threats"
           className="credits"
           target="_blank"
         >
-          Major Threats to Pollinators
+          Threats to Pollinators
         </a>
       </ul>
 

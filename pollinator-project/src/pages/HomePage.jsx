@@ -1,5 +1,5 @@
-
 import { Link } from "react-router";
+import InfoBox from "../components/InfoBox";
 import beesImg from "../assets/bees_flower.jpg";
 
 export default function HomePage() {
@@ -8,9 +8,6 @@ export default function HomePage() {
       <div className="panel">
         <div className="square">
           <h1 className="header">Find information on pollinators</h1>
-          <button id="learn-more" className="learn-more">
-            <h1>Learn More</h1>
-          </button>
         </div>
 
         <img src={beesImg} alt="Two bees sitting on flower" className="bees" />
@@ -28,7 +25,17 @@ export default function HomePage() {
           Unfortunately, native pollinators are often affected by human
           activity.
         </p>
-        <div id="factors"></div>
+        <div id="infocontainer">
+          <InfoBox title="Decreasing Habitats">
+            <p>Decreasing</p>
+          </InfoBox>
+          <InfoBox title="Invasive Species">
+            <p></p>
+          </InfoBox>
+          <InfoBox title="Climate Change">
+            <p></p>
+          </InfoBox>
+        </div>
 
         <p>
           One way to help pollinators is by planting native plants in your
