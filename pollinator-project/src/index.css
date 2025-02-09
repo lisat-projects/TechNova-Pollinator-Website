@@ -150,6 +150,8 @@ hr {
 
 .state {
   fill: #eec04b;
+  border-width: 5px;
+  border-color: #ffffff;
 }
 
 .statepath {
@@ -187,5 +189,10 @@ hr {
 #info-item {
   background-image: linear-gradient(#ffcc4b, #ffb700);
   padding: 2rem;
+  width: 15rem;
   border-radius: 10px;
+}
+
+.info-image {
+  max-width: 100px;
 }

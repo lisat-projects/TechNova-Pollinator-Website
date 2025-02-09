@@ -1,17 +1,20 @@
 import { Link } from "react-router";
 import InfoBox from "../components/InfoBox";
-import beesImg from "../assets/bees_flower.jpg";
+//import beesImg from "../assets/bees_flower.jpg";
+import plantIcon from "../assets/plant.png";
+import bugIcon from "../assets/bug.png";
+import climateIcon from '../assets/global-warming.png'
 
 export default function HomePage() {
   return (
     <>
-      <div className="panel">
+      {/*<div className="panel">
         <div className="square">
           <h1 className="header">Find information on pollinators</h1>
         </div>
 
         <img src={beesImg} alt="Two bees sitting on flower" className="bees" />
-      </div>
+      </div>*/}
 
       <div className="about-page">
         <h2 id="about">About</h2>
@@ -26,15 +29,20 @@ export default function HomePage() {
           activity.
         </p>
         <div id="infocontainer">
-          <InfoBox title="Decreasing Habitats">
+          <InfoBox
+            title="Decreasing Habitats"
+            image={plantIcon}
+            alt="Graphic of a potted plant"
+          >
             <p>Decreasing</p>
           </InfoBox>
-          <InfoBox title="Invasive Species">
+          <InfoBox title="Invasive Species" image={bugIcon} alt="Icon of a bug">
             <p></p>
           </InfoBox>
-          <InfoBox title="Climate Change">
+          <InfoBox title="Climate Change" image={climateIcon} alt="Icon of the Earth">
             <p></p>
           </InfoBox>
+          
         </div>
 
         <p>
