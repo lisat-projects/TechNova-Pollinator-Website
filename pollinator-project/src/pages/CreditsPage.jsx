@@ -6,38 +6,61 @@ export default function CreditsPage() {
       <ul>
         <p>Images</p>
 
-        <a
-          href="https://www.cnn.com/2020/01/28/us/best-flowers-for-bees-conservation-study-scn/index.html"
-          className="credits"
-          target="_blank"
-        >
-          Bees on Flower
-        </a>
-        <a href="https://www.flaticon.com/free-icons/plant" title="plant icons">
-          Plant icons created by Freepik - Flaticon
-        </a>
-        <a href="https://www.flaticon.com/free-icons/bug" title="bug icons">
-          Bug icons created by twentyfour - Flaticon
-        </a>
-        <a
-          href="https://www.flaticon.com/free-icons/climate-change"
-          title="climate change icons"
-        >
-          Climate change icons created by Freepik - Flaticon
-        </a>
-        <a
-          href="https://commons.wikimedia.org/wiki/File:Blank_US_Map_(states_only).svg"
-          className="credits"
-          target="_blank"
-        >
-          SVG of US Map
-        </a>
-        <a
-          href="https://www.flaticon.com/free-icons/symbiosis"
-          title="symbiosis icons"
-        >
-          Symbiosis icons created by Freepik - Flaticon
-        </a>
+        <li>
+          <a
+            href="https://www.cnn.com/2020/01/28/us/best-flowers-for-bees-conservation-study-scn/index.html"
+            className="credits"
+            target="_blank"
+          >
+            Bees on Flower
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.flaticon.com/free-icons/plant"
+            title="plant icons"
+            className="credits"
+          >
+            Plant icons created by Freepik - Flaticon
+          </a>
+        </li>
+
+        <li>
+          <a
+            href="https://www.flaticon.com/free-icons/bug"
+            title="bug icons"
+            className="credits"
+          >
+            Bug icons created by twentyfour - Flaticon
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.flaticon.com/free-icons/climate-change"
+            title="climate change icons"
+            className="credits"
+          >
+            Climate change icons created by Freepik - Flaticon
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://commons.wikimedia.org/wiki/File:Blank_US_Map_(states_only).svg"
+            className="credits"
+            target="_blank"
+          >
+            SVG of US Map
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.flaticon.com/free-icons/symbiosis"
+            title="symbiosis icons"
+            className="credits"
+          >
+            Symbiosis icons created by Freepik - Flaticon
+          </a>
+        </li>
 
         <p>Facts about pollinators</p>
 
@@ -47,6 +70,13 @@ export default function CreditsPage() {
           target="_blank"
         >
           Threats to Pollinators
+        </a>
+        <a
+          href="https://www.pollinator.org/threats"
+          className="credits"
+          target="_blank"
+        >
+          Threats to Pollinators Pollinators.org
         </a>
       </ul>
 

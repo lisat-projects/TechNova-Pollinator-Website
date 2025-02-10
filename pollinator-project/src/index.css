@@ -107,6 +107,8 @@ p {
 
 #about {
   font-family: "Raleway", sans-serif;
+
+  color: #43382f;
   letter-spacing: 0.1rem;
   text-transform: uppercase;
 }
@@ -179,6 +181,7 @@ hr {
 #infocontainer {
   display: flex;
   justify-content: space-evenly;
+  padding: 2rem;
 }
 
 #info-title {
@@ -195,4 +198,25 @@ hr {
 
 .info-image {
   max-width: 100px;
+}
+
+.container {
+  background-image: linear-gradient( #ffe093, #ffd772);
+  width: 75%;
+  padding: 3rem;
+  margin: 2rem auto;
+  align-items: center;
+  /*background-color: #ffe093;*/
+  border-radius: 10px;
+}
+
+hr {
+  width: 50%;
+  border-color: #ffcc4b;
+}
+
+h2 { 
+  font-weight: 100;
+
+  color: #43382f;
 }
