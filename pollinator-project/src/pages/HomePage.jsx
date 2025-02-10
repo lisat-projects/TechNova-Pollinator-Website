@@ -79,19 +79,11 @@ export default function HomePage() {
             so you can help your local pollinators. 
           </h2>
           <Link to="pollinatormap">
-            <button>Get Started</button>
+            <button className="learn-more"><h1 id="about">Get Started</h1></button>
           </Link>
         </div>
       </div>
-
-      <ul className="links">
-        <li>
-          <Link to="credits" className="linktext">
-            credits
-          </Link>
-        </li>
-      </ul>
-      <script src="script.js"></script>
+      
     </>
   );
 }
