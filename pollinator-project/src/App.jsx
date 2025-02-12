@@ -2,7 +2,7 @@ import HomePage from "./pages/HomePage";
 import ErrorPage from "./pages/ErrorPage";
 import RootLayout from "./pages/RootLayout";
 import PollinatorMapPage from "./pages/PollinatorMapPage";
-import StateInfoPage from "./pages/StateInfoPage";
+import StateInfoPage from "./pages/RegionInfoPage";
 import CreditsPage from "./pages/CreditsPage";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 
@@ -18,7 +18,7 @@ const router = createBrowserRouter([
       },
       { path: "pollinatormap", element: <PollinatorMapPage /> },
       { path: "credits", element: <CreditsPage /> },
-      { path: ":stateName", element: <StateInfoPage /> },
+      { path: ":regionName", element: <StateInfoPage /> },
     ],
   },
 ]);

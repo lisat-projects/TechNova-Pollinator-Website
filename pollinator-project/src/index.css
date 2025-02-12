@@ -196,8 +196,8 @@ hr {
 #northwest {
   fill: maroon
 }
-.state:hover .statepath{
-  fill: #d48c14;
+.state-highlighted .statepath{
+  fill: #000000;
 }
 
 
