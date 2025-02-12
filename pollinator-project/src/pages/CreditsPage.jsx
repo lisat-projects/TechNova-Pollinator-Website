@@ -44,12 +44,33 @@ export default function CreditsPage() {
           </a>
         </li>
         <li>
+          By{" "}
           <a
-            href="https://commons.wikimedia.org/wiki/File:Blank_US_Map_(states_only).svg"
+            href="//commons.wikimedia.org/wiki/User:Heitordp"
+            title="User:Heitordp"
             className="credits"
-            target="_blank"
           >
-            SVG of US Map
+            Heitordp
+          </a>{" "}
+          - Derived from{" "}
+          <a
+            href="//commons.wikimedia.org/wiki/File:Blank_USA,_w_territories.svg"
+            className="credits"
+            title="File:Blank USA, w territories.svg"
+          >
+            File:Blank USA, w territories.svg
+          </a>
+          ,{" "}
+          <a
+            href="http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+            className="credits"
+            title="Creative Commons Zero, Public Domain Dedication"
+          >
+            CC0
+          </a>
+          ,{" "}
+          <a href="https://commons.wikimedia.org/w/index.php?curid=941237" className="credits">
+            Link
           </a>
         </li>
         <li>
@@ -63,7 +84,6 @@ export default function CreditsPage() {
         </li>
 
         <p>Facts about pollinators</p>
-
         <a
           href="https://www.fws.gov/initiative/pollinators/threats"
           className="credits"
@@ -78,16 +98,17 @@ export default function CreditsPage() {
         >
           Threats to Pollinators Pollinators.org
         </a>
+        <a
+          href="https://xerces.org/pollinator-conservation/pollinator-friendly-plant-lists"
+          className="credits"
+          target="_blank"
+        >
+          Native Pollinator Information Sheets
+        </a>
       </ul>
 
+      
       <hr />
-      <ul className="links">
-        <li>
-          <a href="credits.html" className="linktext">
-            credits
-          </a>
-        </li>
-      </ul>
     </>
   );
 }

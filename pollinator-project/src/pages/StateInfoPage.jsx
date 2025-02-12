@@ -4,6 +4,7 @@ export default function StateInfoPage() {
       <a href="pollinatormap.html" className="back-button">
         Back to Map
       </a>
+      <h1>STATE INFO PAGE</h1>
       <h1 id="statename">State Name</h1>
 
       <h2>Pollinators</h2>

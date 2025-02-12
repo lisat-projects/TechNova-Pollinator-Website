@@ -43,8 +43,8 @@ p {
 
 .learn-more {
   color: #000000;
-  background-image: linear-gradient( #ffcc4b, #ffb700);
-  /*background-color: #ffcc4b;*/
+  /*background-image: linear-gradient( #ffcc4b, #ffb700);*/
+  background-color: #ffcc4b;
   padding-left: 1rem;
   padding-right: 1rem;
   border: none;
@@ -53,7 +53,7 @@ p {
 }
 
 .learn-more:hover {
-  background-color: #ffb700;
+  background-image: linear-gradient( #ffb700, #ffcc4b);
 }
 
 .header {
@@ -85,6 +85,16 @@ p {
   float: left;
   padding: 20px;
   color: #8f6219;
+  text-decoration: none;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.navtext-active {
+  float: left;
+  padding: 20px;
+  background-color: #d7a526;
+  color: #43382f;
   text-decoration: none;
   transition: 0.2s;
   cursor: pointer;
@@ -157,16 +167,43 @@ hr {
 
 .state {
   fill: #eec04b;
-  border-width: 5px;
-  border-color: #ffffff;
 }
 
-.statepath {
-  transition: 0.1s;
+#midwest {
+  fill: #ff0000;
 }
 
-.statepath:hover {
+#southwest {
+  fill: #ff9d00
+}
+
+#south {
+  fill: rgb(255, 238, 53);
+}
+
+#southeast {
+  fill: green;
+}
+
+#midatlantic {
+  fill: blue
+}
+
+#northeast {
+  fill: purple;
+}
+
+#northwest {
+  fill: maroon
+}
+.state:hover .statepath{
   fill: #d48c14;
+}
+
+
+.borders {
+  stroke:#FFFFFF; 
+  stroke-width:1
 }
 
 .map-box {
