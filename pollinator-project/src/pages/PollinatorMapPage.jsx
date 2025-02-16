@@ -8,7 +8,7 @@ export default function PollinatorMapPage() {
 
   function handleRegionClick() {
     console.log(selectedRegion + " clicked");
-    navigate("../:" + selectedRegion)
+    navigate("../" + selectedRegion)
   }
 
   return (

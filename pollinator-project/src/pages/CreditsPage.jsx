@@ -69,7 +69,10 @@ export default function CreditsPage() {
             CC0
           </a>
           ,{" "}
-          <a href="https://commons.wikimedia.org/w/index.php?curid=941237" className="credits">
+          <a
+            href="https://commons.wikimedia.org/w/index.php?curid=941237"
+            className="credits"
+          >
             Link
           </a>
         </li>
@@ -105,9 +108,15 @@ export default function CreditsPage() {
         >
           Native Pollinator Information Sheets
         </a>
+        <a
+          href="https://saveplants.org/pollinator-search/"
+          className="credits"
+          target="_blank"
+        >
+          Pollinator Database
+        </a>
       </ul>
 
-      
       <hr />
     </>
   );

@@ -262,3 +262,7 @@ h2 {
 
   color: #43382f;
 }
+
+table, tr {
+  width: 100%;
+}
