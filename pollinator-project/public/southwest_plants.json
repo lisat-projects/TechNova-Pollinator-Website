@@ -1,0 +1,2752 @@
+[
+  {
+    "SCIENTIFIC NAME": "Achillea millefolium",
+    "COMMON NAME": "Common yarrow",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Acmispon rigidus\u01ab",
+    "COMMON NAME": "Shrubby deervetch",
+    "BLOOM": "Feb\u2013May",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Aesculus californica",
+    "COMMON NAME": "California buckeye",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Agastache urticifolia",
+    "COMMON NAME": "Nettleleaf giant hyssop",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Agastache urticifolia\u01ab",
+    "COMMON NAME": "Nettleleaf giant hyssop",
+    "BLOOM": "May\u2013Oct",
+    "LIFE": "P",
+    "FORM": "b a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "\u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Agave lecheguilla",
+    "COMMON NAME": "Shindagger",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Amelanchier alnifolia / utahensis",
+    "COMMON NAME": "Saskatoon serviceberry",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "c b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Anaphalis margaritacea",
+    "COMMON NAME": "Pearly everlasting",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Anisacanthus thurberi",
+    "COMMON NAME": "Desert honeysuckle",
+    "BLOOM": "Mar\u2013May",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Aquilegia formosa",
+    "COMMON NAME": "Western columbine",
+    "BLOOM": null,
+    "LIFE": "EArLy",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": ">",
+    "ADDITIONAL DETAILS \u017e": "L\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Arctostaphylos densiflora \u2018McMinn\u2019",
+    "COMMON NAME": "McMinn manzanita",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Arctostaphylos glauca",
+    "COMMON NAME": "Bigberry manzanita",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": ">",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Arctostaphylos manzanita 'Dr. Hurd'",
+    "COMMON NAME": "Common manzanita 'Dr. Hurd'",
+    "BLOOM": null,
+    "LIFE": "EArLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Arctostaphylos nevadensis",
+    "COMMON NAME": "Pinemat manzanita",
+    "BLOOM": null,
+    "LIFE": "EArLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": ">",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Arctostaphylos patula",
+    "COMMON NAME": "Greenleaf manzanita",
+    "BLOOM": null,
+    "LIFE": "EArLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Arctostaphylos pungens",
+    "COMMON NAME": "Pointleaf manzanita",
+    "BLOOM": "Jan\u2013Feb",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Argemone pleiacantha",
+    "COMMON NAME": "Southwestern prickly poppy",
+    "BLOOM": "Jun-Sep",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Artemisia douglasiana",
+    "COMMON NAME": "Mugwort",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013LAtE",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Artemisia tridentata",
+    "COMMON NAME": "Big sagebrush",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc O"
+  },
+  {
+    "SCIENTIFIC NAME": "Asclepias asperula\u01ab",
+    "COMMON NAME": "Antelopehorn milkweed",
+    "BLOOM": "Mar\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Asclepias cordifolia",
+    "COMMON NAME": "Heartleaf milkweed",
+    "BLOOM": null,
+    "LIFE": "EArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Asclepias eriocarpa",
+    "COMMON NAME": "Woollypod milkweed",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Asclepias fascicularis",
+    "COMMON NAME": "Narrowleaf milkweed",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013Late",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "f",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Asclepias linaria",
+    "COMMON NAME": "Pine needle milkweed",
+    "BLOOM": "Mar\u2013SeP",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Asclepias speciosa",
+    "COMMON NAME": "Showy milkweed",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Asclepias speciosa\u01ab",
+    "COMMON NAME": "Showy milkweed",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Asclepias subulata",
+    "COMMON NAME": "Rush milkweed",
+    "BLOOM": null,
+    "LIFE": "earLy\u2013Late",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Asclepias subulata\u01ab",
+    "COMMON NAME": "Rush milkweed",
+    "BLOOM": "aPr\u2013Nov",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Asclepias subverticillata",
+    "COMMON NAME": "Horsetail milkweed",
+    "BLOOM": "Jul",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Atriplex canescens",
+    "COMMON NAME": "Fourwing saltbush",
+    "BLOOM": "Feb\u2013Jul",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Atriplex lentiformis",
+    "COMMON NAME": "Big saltbush",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013LAte",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Baccharis pilularis",
+    "COMMON NAME": "Coyotebrush",
+    "BLOOM": null,
+    "LIFE": "LAte",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Baccharis pilularis 'Pigeon Point'",
+    "COMMON NAME": "Dwarf coyotebrush",
+    "BLOOM": null,
+    "LIFE": "LAte",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Baccharis salicifolia",
+    "COMMON NAME": "Mulefat",
+    "BLOOM": "aPr\u2013May",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Baccharis sarothroides",
+    "COMMON NAME": "Desert broom",
+    "BLOOM": "SeP\u2013Dec",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Baileya multiradiata",
+    "COMMON NAME": "Desert marigold",
+    "BLOOM": null,
+    "LIFE": "earLy\u2013Mid",
+    "FORM": "a, P",
+    "SUN": "F",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Baileya multiradiata\u01ab",
+    "COMMON NAME": "Desert marigold",
+    "BLOOM": "aPr\u2013Jul",
+    "LIFE": "a / P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Balsamorhiza sagittata",
+    "COMMON NAME": "Arrowleaf balsamroot",
+    "BLOOM": "Feb\u2013Jul",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Berberis aquifolium",
+    "COMMON NAME": "Oregon grape",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Berberis haematocarpa",
+    "COMMON NAME": "Algerita",
+    "BLOOM": "Feb\u2013Jun",
+    "LIFE": "p",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Berberis repens",
+    "COMMON NAME": "Creeping barberry",
+    "BLOOM": "Feb\u2013aPr",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025e \u025f",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Berlandiera lyrata",
+    "COMMON NAME": "Chocolate flower",
+    "BLOOM": "aPr\u2013Nov",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Bouteloua curtipendula",
+    "COMMON NAME": "Sideoats grama",
+    "BLOOM": "Jul-SeP",
+    "LIFE": "P",
+    "FORM": "Z",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u014e \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Calliandra eriophylla",
+    "COMMON NAME": "Fairy duster",
+    "BLOOM": "Feb\u2013Mar",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Carnegiae gigantea",
+    "COMMON NAME": "Saguaro",
+    "BLOOM": "May\u2013Jun",
+    "LIFE": "P",
+    "FORM": "T",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F"
+  },
+  {
+    "SCIENTIFIC NAME": "Ceanothus cuneatus",
+    "COMMON NAME": "Buck brush",
+    "BLOOM": null,
+    "LIFE": "EArLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Ceanothus fendleri",
+    "COMMON NAME": "Fendler's ceanothus",
+    "BLOOM": "Jun\u2013Jul",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Ceanothus integerrimus",
+    "COMMON NAME": "Deer brush",
+    "BLOOM": null,
+    "LIFE": "EArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Ceanothus leucodermis",
+    "COMMON NAME": "Chaparral whitehorn",
+    "BLOOM": null,
+    "LIFE": "EArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Ceanothus \u2018Concha\u2019",
+    "COMMON NAME": "California lilac \u2018Concha\u2019",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Ceanothus \u2018Frosty blue\u2019",
+    "COMMON NAME": "Frosty blue California lilac",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Ceanothus \u2018Julia Phelps\u2019",
+    "COMMON NAME": "California lilac 'Julia Phelps\u2019",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Cephalanthus occidentalis",
+    "COMMON NAME": "Common buttonbush",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013LAte",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Cercis occidentalis",
+    "COMMON NAME": "Western redbud",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Chamaebatiaria millefolium",
+    "COMMON NAME": "Fernbush",
+    "BLOOM": "May\u2013Oct",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Chamerion angustifolium",
+    "COMMON NAME": "Fireweed",
+    "BLOOM": "aug\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Chilopsis linearis",
+    "COMMON NAME": "Desert willow",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Chilopsis linearis\u01ab",
+    "COMMON NAME": "Desert willow",
+    "BLOOM": "aPr\u2013SeP",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d8 O \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Chrysothamnus viscidiflorus\u01ab",
+    "COMMON NAME": "Yellow rabbitbrush",
+    "BLOOM": "Feb\u2013aPr",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Cirsium neomexicanum",
+    "COMMON NAME": "New Mexico thistle",
+    "BLOOM": "May",
+    "LIFE": "B / P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P O \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Cirsium occidentale",
+    "COMMON NAME": "Cobweb thistle",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L\u2013M"
+  },
+  {
+    "SCIENTIFIC NAME": "Clarkia amoena",
+    "COMMON NAME": "Farewell-to-spring",
+    "BLOOM": null,
+    "LIFE": "eArLy\u2013Mid",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Clarkia unguiculata",
+    "COMMON NAME": "Elegant clarkia",
+    "BLOOM": null,
+    "LIFE": "eArLy\u2013Mid",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Clarkia williamsonii",
+    "COMMON NAME": "Fort Miller clarkia",
+    "BLOOM": null,
+    "LIFE": "eArLy\u2013Mid",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Clematis ligusticifolia",
+    "COMMON NAME": "Western white clematis",
+    "BLOOM": "Feb\u2013Oct",
+    "LIFE": "P",
+    "FORM": "\u0261",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M\u2013W",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Collinsia heterophylla",
+    "COMMON NAME": "Chinese houses",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Cornus nuttallii",
+    "COMMON NAME": "Mountain dogwood",
+    "BLOOM": null,
+    "LIFE": "EArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L\u2013M"
+  },
+  {
+    "SCIENTIFIC NAME": "Cornus sericea",
+    "COMMON NAME": "American dogwood",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Dalea candida",
+    "COMMON NAME": "White prairie clover",
+    "BLOOM": "May\u2013SeP",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Dalea candida\u01ab",
+    "COMMON NAME": "White prairie clover",
+    "BLOOM": "May\u2013Sep",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Dalea formosa",
+    "COMMON NAME": "Feather dalea",
+    "BLOOM": "aPr\u2013oct",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Delphinium scaposum",
+    "COMMON NAME": "Bare-stem larkspur",
+    "BLOOM": "Mar\u2013May",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Delphinium wootonii",
+    "COMMON NAME": "Organ Mountain delphinium",
+    "BLOOM": "Mar\u2013JuN",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Dicentra formosa",
+    "COMMON NAME": "Pacific bleeding heart",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": ">",
+    "ADDITIONAL DETAILS \u017e": "M\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Dieteria canescens",
+    "COMMON NAME": "Hoary tansyaster",
+    "BLOOM": "aug\u2013Oct",
+    "LIFE": "a / P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Dimorphocarpa wislizeni",
+    "COMMON NAME": "Spectaclepod",
+    "BLOOM": "Mar\u2013Jul",
+    "LIFE": "a",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": ""
+  },
+  {
+    "SCIENTIFIC NAME": "Diplacus aurantiacus ssp. aurantiacus",
+    "COMMON NAME": "Sticky monkey flower",
+    "BLOOM": null,
+    "LIFE": "eArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Elymus elymoides",
+    "COMMON NAME": "Bottlebrush squirreltail",
+    "BLOOM": "May\u2013aug",
+    "LIFE": "P",
+    "FORM": "Z",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u014e"
+  },
+  {
+    "SCIENTIFIC NAME": "Encelia actoni",
+    "COMMON NAME": "Acton encelia",
+    "BLOOM": null,
+    "LIFE": "earLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Encelia californica",
+    "COMMON NAME": "California brittlebush",
+    "BLOOM": null,
+    "LIFE": "EArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L\u2013M"
+  },
+  {
+    "SCIENTIFIC NAME": "Encelia farinosa",
+    "COMMON NAME": "Brittlebush",
+    "BLOOM": null,
+    "LIFE": "earLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Epilobium canum",
+    "COMMON NAME": "California fuchsia",
+    "BLOOM": null,
+    "LIFE": "Late",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Ericameria laricifolia\u01ab",
+    "COMMON NAME": "Turpentine bush",
+    "BLOOM": "aug\u2013Oct",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Ericameria nauseosa",
+    "COMMON NAME": "Rubber rabbitbrush",
+    "BLOOM": null,
+    "LIFE": "Late",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Ericameria nauseosa\u01ab",
+    "COMMON NAME": "Rubber rabbitbrush",
+    "BLOOM": "aug\u2013Oct",
+    "LIFE": "p",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Erigeron compositus",
+    "COMMON NAME": "Cutleaf daisy*",
+    "BLOOM": "Feb\u2013Jul",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Erigeron divergens",
+    "COMMON NAME": "Spreading fleabane",
+    "BLOOM": "aPr\u2013Oct",
+    "LIFE": "b",
+    "FORM": "a",
+    "SUN": "\u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Erigeron divergens\u01ab",
+    "COMMON NAME": "Spreading fleabane",
+    "BLOOM": "aPr\u2013oct",
+    "LIFE": "b",
+    "FORM": "a",
+    "SUN": "\u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Eriodictyon californicum",
+    "COMMON NAME": "Yerba santa",
+    "BLOOM": null,
+    "LIFE": "EArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Eriogonum arborescens",
+    "COMMON NAME": "Island buckwheat",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Eriogonum fasciculatum",
+    "COMMON NAME": "California buckwheat",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013Late",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Eriogonum giganteum",
+    "COMMON NAME": "St. Catherine\u2019s lace",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013LAtE",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Eriogonum jamesii",
+    "COMMON NAME": "James' buckwheat",
+    "BLOOM": "Jun\u2013Oct",
+    "LIFE": "P",
+    "FORM": "b a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Eriogonum nudum",
+    "COMMON NAME": "Nude buckwheat",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Eriogonum umbellatum",
+    "COMMON NAME": "Sulphur flower buckwheat",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013Late",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Eriogonum umbellatum\u01ab",
+    "COMMON NAME": "Sulphur-flower buckwheat",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Eriogonum wrightii",
+    "COMMON NAME": "Wright's buckwheat",
+    "BLOOM": "Jul\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Eriophyllum confertiflorum",
+    "COMMON NAME": "Golden yarrow",
+    "BLOOM": null,
+    "LIFE": "earLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Eriophyllum lanatum",
+    "COMMON NAME": "Common woolly sunflower",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013LAte",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Eriophyllum lanatum\u01ab",
+    "COMMON NAME": "Wooly sunflower",
+    "BLOOM": "May\u2013Oct",
+    "LIFE": "a / P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Eriophyllum staechadifolium",
+    "COMMON NAME": "Seaside woolly sunflower",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013LAte",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Erysimum capitatum",
+    "COMMON NAME": "Sanddune wallflower",
+    "BLOOM": "Feb\u2013Jul",
+    "LIFE": "b / P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Eschscholzia californica",
+    "COMMON NAME": "California poppy",
+    "BLOOM": "May\u2013JuN",
+    "LIFE": "a / P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Euthamia occidentalis",
+    "COMMON NAME": "Western goldentop",
+    "BLOOM": null,
+    "LIFE": "LAte",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "H"
+  },
+  {
+    "SCIENTIFIC NAME": "Fallugia paradoxa",
+    "COMMON NAME": "Apache plume",
+    "BLOOM": "May\u2013Jun",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Ferocactus wislizeni",
+    "COMMON NAME": "Candy barrel cactus",
+    "BLOOM": "May\u2013Jun",
+    "LIFE": "P",
+    "FORM": "T",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Forestiera pubescens",
+    "COMMON NAME": "New Mexico olive",
+    "BLOOM": "Feb\u2013aPr",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D / M",
+    "ADDITIONAL DETAILS \u017e": "F"
+  },
+  {
+    "SCIENTIFIC NAME": "Fouquieria splendens",
+    "COMMON NAME": "Ocotillo",
+    "BLOOM": "Feb\u2013May",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F"
+  },
+  {
+    "SCIENTIFIC NAME": "Fremontodendron californicum",
+    "COMMON NAME": "Flannelbush",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Gaillardia pulchella\u01ab",
+    "COMMON NAME": "Blanketflower",
+    "BLOOM": "apr\u2013May",
+    "LIFE": "a / b / p",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Geranium caespitosum",
+    "COMMON NAME": "Pineywoods geranium",
+    "BLOOM": "May\u2013SeP",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "\u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Gilia capitata",
+    "COMMON NAME": "Globe gilia",
+    "BLOOM": null,
+    "LIFE": "eArLy\u2013Mid",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Glandularia bipinnatifida",
+    "COMMON NAME": "Prairie verbena",
+    "BLOOM": "May\u2013SeP",
+    "LIFE": "a / P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Grindelia hirsutula",
+    "COMMON NAME": "Gumplant",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013LAte",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Grindelia squarrosa",
+    "COMMON NAME": "Curlycup gumweed",
+    "BLOOM": "aug\u2013Oct",
+    "LIFE": "a / P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P"
+  },
+  {
+    "SCIENTIFIC NAME": "Gutierrezia sarothrae",
+    "COMMON NAME": "Broom snakeweed",
+    "BLOOM": "Jun\u2013Jul",
+    "LIFE": "P",
+    "FORM": "b a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Helenium autumnale",
+    "COMMON NAME": "Sneezeweed",
+    "BLOOM": "aug\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Helenium bigelovii",
+    "COMMON NAME": "Bigelow's sneezeweed",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013LAtE",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "M\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Helianthus annuus",
+    "COMMON NAME": "Common sunflower",
+    "BLOOM": "JuN\u2013aug",
+    "LIFE": "a",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P"
+  },
+  {
+    "SCIENTIFIC NAME": "Helianthus bolanderi",
+    "COMMON NAME": "Bolander\u2019s sunflower",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013LAte",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Helianthus nuttallii",
+    "COMMON NAME": "Nuttall's sunflower",
+    "BLOOM": "May\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Heliomeris multiflora",
+    "COMMON NAME": "Goldeneye",
+    "BLOOM": "Jul\u2013SeP",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00d8 P"
+  },
+  {
+    "SCIENTIFIC NAME": "Heliotropium curassavicum\u01ab",
+    "COMMON NAME": "Salt heliotrope",
+    "BLOOM": "Feb\u2013Jul",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "\u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Heteromeles arbutifolia",
+    "COMMON NAME": "Toyon",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Heterotheca villosa",
+    "COMMON NAME": "Hairy false goldenaster",
+    "BLOOM": "Jun\u2013aug",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Heuchera micrantha",
+    "COMMON NAME": "Alum root",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": ">",
+    "ADDITIONAL DETAILS \u017e": "L\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Hibiscus denudatus",
+    "COMMON NAME": "Desert hibiscus",
+    "BLOOM": "May\u2013Nov",
+    "LIFE": "P",
+    "FORM": "b a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Holodiscus discolor",
+    "COMMON NAME": "Oceanspray",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Hyptis emoryi",
+    "COMMON NAME": "Desert lavender",
+    "BLOOM": "Jan\u2013May",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": ""
+  },
+  {
+    "SCIENTIFIC NAME": "Ipomopsis aggregata ssp. aggregata",
+    "COMMON NAME": "Scarlet gilia",
+    "BLOOM": "May\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F"
+  },
+  {
+    "SCIENTIFIC NAME": "Justicia californica",
+    "COMMON NAME": "Chuparosa",
+    "BLOOM": "Mar\u2013Jun",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F"
+  },
+  {
+    "SCIENTIFIC NAME": "Keckiella antirrhinoides",
+    "COMMON NAME": "Chaparral beard tongue",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Larrea tridentata",
+    "COMMON NAME": "Creosote bush",
+    "BLOOM": "Feb\u2013aPr",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00d8 O \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Lasthenia glabrata",
+    "COMMON NAME": "Goldfields",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Layia platyglossa",
+    "COMMON NAME": "Common tidytips",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Leymus cinereus",
+    "COMMON NAME": "Basin wildrye",
+    "BLOOM": "Mar-aPr",
+    "LIFE": "P",
+    "FORM": "Z",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u014e"
+  },
+  {
+    "SCIENTIFIC NAME": "Linum lewisii",
+    "COMMON NAME": "Blue flax",
+    "BLOOM": "May\u2013SeP",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "\u00cc \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Lomatium dissectum",
+    "COMMON NAME": "Fernleaf biscuitroot",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Lotus scoparius",
+    "COMMON NAME": "Common deerweed",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Lupinus albifrons",
+    "COMMON NAME": "Silver bush lupine",
+    "BLOOM": null,
+    "LIFE": "eArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Lupinus arboreus",
+    "COMMON NAME": "Golden bush lupine",
+    "BLOOM": null,
+    "LIFE": "eArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Lupinus argenteus",
+    "COMMON NAME": "Silvery lupine",
+    "BLOOM": "Jul\u2013SeP",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Lupinus bicolor",
+    "COMMON NAME": "Bicolor lupine",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Lupinus densiflorus var. aureus",
+    "COMMON NAME": "Golden lupine",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Lupinus formosus",
+    "COMMON NAME": "Summer lupine",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Lupinus latifolius",
+    "COMMON NAME": "Broadleaf lupine",
+    "BLOOM": null,
+    "LIFE": "EArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Lupinus polyphyllus",
+    "COMMON NAME": "Bigleaf lupine",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "M\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Lupinus succulentus",
+    "COMMON NAME": "Arroyo lupine",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Lycium exsertum",
+    "COMMON NAME": "Wolfberry",
+    "BLOOM": "Jan\u2013Mar",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D\u2013M",
+    "ADDITIONAL DETAILS \u017e": "\u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Lycium pallidum",
+    "COMMON NAME": "Pale wolfberry",
+    "BLOOM": "aPr\u2013Jun",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "P"
+  },
+  {
+    "SCIENTIFIC NAME": "Machaeranthera tanacetifolia\u01ab",
+    "COMMON NAME": "Tahoka daisy",
+    "BLOOM": "aug\u2013Oct",
+    "LIFE": "a",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Madia elegans",
+    "COMMON NAME": "Common madia",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013LAtE",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Maurandella antirrhiniflora",
+    "COMMON NAME": "Roving sailor",
+    "BLOOM": "Mar\u2013Oct",
+    "LIFE": "P",
+    "FORM": "\u0261",
+    "SUN": "\u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F"
+  },
+  {
+    "SCIENTIFIC NAME": "Melampodium leucanthum",
+    "COMMON NAME": "Blackfoot daisy",
+    "BLOOM": "Mar\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Menodora scabra",
+    "COMMON NAME": "Twinpod",
+    "BLOOM": "Mar\u2013SeP",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": ""
+  },
+  {
+    "SCIENTIFIC NAME": "Mentzelia multiflora",
+    "COMMON NAME": "Adonis blazingstar",
+    "BLOOM": "Mar\u2013Oct",
+    "LIFE": "B / P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Mertensia ciliata",
+    "COMMON NAME": "Tall fringed bluebells",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025e",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Mimulus cardinalis",
+    "COMMON NAME": "Cardinal monkeyflower",
+    "BLOOM": null,
+    "LIFE": "EArLy",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Mimulus guttatus",
+    "COMMON NAME": "Yellow monkeyflower",
+    "BLOOM": null,
+    "LIFE": "EArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Monarda fistulosa var. menthifolia",
+    "COMMON NAME": "Beebalm",
+    "BLOOM": "May\u2013SeP",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Monardella odoratissima",
+    "COMMON NAME": "Mountain mint",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L\u2013M"
+  },
+  {
+    "SCIENTIFIC NAME": "Monardella odoratissima\u01ab",
+    "COMMON NAME": "Mountain mint",
+    "BLOOM": "May\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Monardella villosa",
+    "COMMON NAME": "Coyote mint",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Muhlenbergia rigens",
+    "COMMON NAME": "Deer grass",
+    "BLOOM": "Jul-Oct",
+    "LIFE": "P",
+    "FORM": "Z",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u014e \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Nama hispida",
+    "COMMON NAME": "Sandbells",
+    "BLOOM": "FeB\u2013May",
+    "LIFE": "a",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "X"
+  },
+  {
+    "SCIENTIFIC NAME": "Nassella pulchra",
+    "COMMON NAME": "Purple needlegrass",
+    "BLOOM": null,
+    "LIFE": "\u2014",
+    "FORM": "P",
+    "SUN": "G",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Nemophila maculata",
+    "COMMON NAME": "Fivespot",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Nemophila menziesii",
+    "COMMON NAME": "Baby blue byes",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Oenothera cespitosa",
+    "COMMON NAME": "Tufted evening primrose",
+    "BLOOM": "May\u2013Jun",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 O"
+  },
+  {
+    "SCIENTIFIC NAME": "Oenothera cespitosa\u01ab",
+    "COMMON NAME": "Tufted evening primrose",
+    "BLOOM": "May\u2013JuN",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 O"
+  },
+  {
+    "SCIENTIFIC NAME": "Oenothera elata",
+    "COMMON NAME": "Evening primrose",
+    "BLOOM": "aug\u2013Oct",
+    "LIFE": "b",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 O"
+  },
+  {
+    "SCIENTIFIC NAME": "Olneya tesota",
+    "COMMON NAME": "Desert ironwood",
+    "BLOOM": "aPr\u2013May",
+    "LIFE": "P",
+    "FORM": "c",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Opuntia basilaris",
+    "COMMON NAME": "Beavertail cactus",
+    "BLOOM": null,
+    "LIFE": "earLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "s",
+    "SOIL": "f",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Opuntia engelmannii\u01ab",
+    "COMMON NAME": "Engelmann's prickly pear",
+    "BLOOM": "aPr\u2013JuN",
+    "LIFE": "P",
+    "FORM": "T",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Opuntia macrocentra",
+    "COMMON NAME": "Purple prickly pear",
+    "BLOOM": "aPr\u2013JuN",
+    "LIFE": "P",
+    "FORM": "T",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Opuntia macrorhiza",
+    "COMMON NAME": "Twistspine prickly pear",
+    "BLOOM": "Jun\u2013Jul",
+    "LIFE": "P",
+    "FORM": "T",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Parkinsonia florida",
+    "COMMON NAME": "Blue palo verde",
+    "BLOOM": "aPr\u2013May",
+    "LIFE": "P",
+    "FORM": "b c",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Penstemon ambiguus",
+    "COMMON NAME": "Sand penstemon",
+    "BLOOM": "May\u2013oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Penstemon azureus",
+    "COMMON NAME": "Blue penstemon",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Penstemon heterophyllus",
+    "COMMON NAME": "Foothill penstemon",
+    "BLOOM": null,
+    "LIFE": "eArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Penstemon palmeri",
+    "COMMON NAME": "Palmer's penstemon",
+    "BLOOM": "May\u2013Jun",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Penstemon parryi\u01ab",
+    "COMMON NAME": "Parry's penstemon",
+    "BLOOM": "Mar\u2013May",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Penstemon pseudospectabilis",
+    "COMMON NAME": "Showy penstemon",
+    "BLOOM": null,
+    "LIFE": "earLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Penstemon speciosus\u01ab",
+    "COMMON NAME": "Royal penstemon",
+    "BLOOM": "May\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Penstemon spectabilis",
+    "COMMON NAME": "Showy penstemon",
+    "BLOOM": null,
+    "LIFE": "eArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Penstemon strictus\u01ab",
+    "COMMON NAME": "Rocky Mountain penstemon",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Peritoma arborea",
+    "COMMON NAME": "Bladderpod",
+    "BLOOM": null,
+    "LIFE": "earLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Peritoma arborea var. arborea",
+    "COMMON NAME": "Bladderpod",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Peritoma lutea / serrulata\u01ab",
+    "COMMON NAME": "Yellow beeflower / beeplant",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "a",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F"
+  },
+  {
+    "SCIENTIFIC NAME": "Peritoma serrulata",
+    "COMMON NAME": "Rocky Mountain beeplant",
+    "BLOOM": "Jul\u2013SeP",
+    "LIFE": "a",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Peritoma serrulata\u01ab",
+    "COMMON NAME": "Rocky Mountain beeplant",
+    "BLOOM": "Jul\u2013Sep",
+    "LIFE": "a",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Phacelia californica",
+    "COMMON NAME": "California phacelia",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Phacelia campanularia",
+    "COMMON NAME": "Desert bells",
+    "BLOOM": null,
+    "LIFE": "earLy",
+    "FORM": "a",
+    "SUN": "F",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Phacelia ciliata",
+    "COMMON NAME": "Great Valley phacelia",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Phacelia distans",
+    "COMMON NAME": "Distant phacelia",
+    "BLOOM": "Mar\u2013Jun",
+    "LIFE": "a",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Phacelia hastata",
+    "COMMON NAME": "Silverleaf phacelia",
+    "BLOOM": "Feb\u2013aPr",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Phacelia imbricata",
+    "COMMON NAME": "Imbricate phacelia",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Phacelia integrifolia",
+    "COMMON NAME": "Scorpionweed",
+    "BLOOM": "May\u2013oct",
+    "LIFE": "a",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Phacelia ramosissima",
+    "COMMON NAME": "Branching phacelia",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": ">",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Phacelia tanacetifolia",
+    "COMMON NAME": "Tansy phacelia",
+    "BLOOM": null,
+    "LIFE": "earLy",
+    "FORM": "a",
+    "SUN": "F",
+    "SOIL": "\u2013f",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Philadelphus lewisii",
+    "COMMON NAME": "Mock orange",
+    "BLOOM": null,
+    "LIFE": "EArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Poa secunda",
+    "COMMON NAME": "Sandburg bluegrass",
+    "BLOOM": "Na",
+    "LIFE": "P",
+    "FORM": "Z",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u014e"
+  },
+  {
+    "SCIENTIFIC NAME": "Potentilla gracilis",
+    "COMMON NAME": "Slender cinquefoil",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 O"
+  },
+  {
+    "SCIENTIFIC NAME": "Prosopis glandulosa",
+    "COMMON NAME": "Honey mesquite",
+    "BLOOM": "Mar\u2013JuN",
+    "LIFE": "P",
+    "FORM": "c b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Prosopis pubescens",
+    "COMMON NAME": "Screw bean mesquite",
+    "BLOOM": null,
+    "LIFE": "earLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Prosopis velutina",
+    "COMMON NAME": "Velvet mesquite",
+    "BLOOM": "Mar\u2013aug",
+    "LIFE": "P",
+    "FORM": "b c",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc P O"
+  },
+  {
+    "SCIENTIFIC NAME": "Prunus ilicifolia",
+    "COMMON NAME": "Hollyleaf cherry",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "f",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Prunus virginiana",
+    "COMMON NAME": "Chokecherry",
+    "BLOOM": "aPr\u2013May",
+    "LIFE": "P",
+    "FORM": "c b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Purshia mexicana var. stansburyana",
+    "COMMON NAME": "Stansbury cliffrose",
+    "BLOOM": "aPr\u2013Jul",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Purshia tridentata",
+    "COMMON NAME": "Antelope bitterbrush",
+    "BLOOM": "Feb\u2013aPr",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Quercus gambelii",
+    "COMMON NAME": "Gambel oak",
+    "BLOOM": "Mar-May",
+    "LIFE": "P",
+    "FORM": "c b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F"
+  },
+  {
+    "SCIENTIFIC NAME": "Ratibida columnifera",
+    "COMMON NAME": "Upright prairie coneflower",
+    "BLOOM": "May\u2013oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Ratibida columnifera\u01ab",
+    "COMMON NAME": "Upright prairie coneflower",
+    "BLOOM": "May\u2013Oct",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Rhamnus californica",
+    "COMMON NAME": "California buckthorn",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Rhamnus ilicifolia",
+    "COMMON NAME": "Hollyleaf redberry",
+    "BLOOM": null,
+    "LIFE": "earLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "f",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Rhus aromatica\u01ab",
+    "COMMON NAME": "Threeleaf sumac",
+    "BLOOM": "Mar\u2013apr",
+    "LIFE": "p",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Ribes aureum",
+    "COMMON NAME": "Golden currant",
+    "BLOOM": "aPr\u2013May",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Ribes aureum\u01ab",
+    "COMMON NAME": "Golden currant",
+    "BLOOM": "Feb\u2013aPr",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Ribes cereum",
+    "COMMON NAME": "Wax currant",
+    "BLOOM": "Feb\u2013Jul",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Robinia neomexicana",
+    "COMMON NAME": "New Mexico locust",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "b c",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Rosa californica",
+    "COMMON NAME": "California wildrose",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Rosa gymnocarpa",
+    "COMMON NAME": "Wood rose",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Rosa woodsii",
+    "COMMON NAME": "Wood's rose",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Rubus parviflorus",
+    "COMMON NAME": "Thimbleberry",
+    "BLOOM": null,
+    "LIFE": "EArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": ">",
+    "ADDITIONAL DETAILS \u017e": "M\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "SCIENTIFIC NAME",
+    "COMMON NAME": "COMMON NAME",
+    "BLOOM": "BLOOM",
+    "LIFE": "LIFE",
+    "FORM": "FORM",
+    "SUN": "SUN",
+    "SOIL": "SOIL",
+    "ADDITIONAL DETAILS \u017e": "ADDITIONAL DETAILS \u017e"
+  },
+  {
+    "SCIENTIFIC NAME": "Salix exigua",
+    "COMMON NAME": "Coyote willow",
+    "BLOOM": "aPr\u2013May",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025e",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Salix gooddingii",
+    "COMMON NAME": "Goodding's willow",
+    "BLOOM": "Mar\u2013Jun",
+    "LIFE": "P",
+    "FORM": "c",
+    "SUN": "\u025d \u025e",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Salix laevigata",
+    "COMMON NAME": "Red willow",
+    "BLOOM": null,
+    "LIFE": "eArLy",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "H"
+  },
+  {
+    "SCIENTIFIC NAME": "Salix lasiandra",
+    "COMMON NAME": "Shining willow",
+    "BLOOM": "Feb\u2013aPr",
+    "LIFE": "P",
+    "FORM": "c",
+    "SUN": "\u025d \u025e",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Salix lasiolepis",
+    "COMMON NAME": "Arroyo willow",
+    "BLOOM": null,
+    "LIFE": "EArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "H"
+  },
+  {
+    "SCIENTIFIC NAME": "Salvia chamaedryoides",
+    "COMMON NAME": "Germander sage",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Salvia clevelandii",
+    "COMMON NAME": "Cleveland sage",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Salvia columbariae",
+    "COMMON NAME": "Desert chia",
+    "BLOOM": "Mar\u2013Jul",
+    "LIFE": "a",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Salvia dorrii",
+    "COMMON NAME": "Desert sage",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "D\u2013M",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Salvia leucophylla",
+    "COMMON NAME": "Purple sage",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Salvia lycioides",
+    "COMMON NAME": "Canyon Sage",
+    "BLOOM": "Jul\u2013oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F"
+  },
+  {
+    "SCIENTIFIC NAME": "Salvia mellifera",
+    "COMMON NAME": "Black sage",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013Late",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Salvia sonomensis",
+    "COMMON NAME": "Sonoma sage",
+    "BLOOM": null,
+    "LIFE": "EArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Sambucus nigra",
+    "COMMON NAME": "Black elderberry",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "c b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Sambucus nigra ssp. cerulea",
+    "COMMON NAME": "Blue elderberry",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Scabrethia scabra",
+    "COMMON NAME": "Badlands mules-ear",
+    "BLOOM": "May\u2013Oct",
+    "LIFE": "P",
+    "FORM": "b a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Scrophularia californica",
+    "COMMON NAME": "California bee plant",
+    "BLOOM": null,
+    "LIFE": "eArLy\u2013Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Senecio flaccidus\u01ab",
+    "COMMON NAME": "Threadleaf groundsel",
+    "BLOOM": "Jun\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Senegalia (Acacia) greggii",
+    "COMMON NAME": "Catclaw acacia",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Senegalia greggii",
+    "COMMON NAME": "Catclaw acacia",
+    "BLOOM": "aPr\u2013JuN",
+    "LIFE": "P",
+    "FORM": "c b",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": ""
+  },
+  {
+    "SCIENTIFIC NAME": "Senna covesii",
+    "COMMON NAME": "Desert senna",
+    "BLOOM": "aPr\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Sidalcea calycosa",
+    "COMMON NAME": "Annual checkerbloom",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013LAtE",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "M\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Sidalcea malviflora",
+    "COMMON NAME": "Checkerbloom",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Solidago canadensis",
+    "COMMON NAME": "Canada goldenrod",
+    "BLOOM": null,
+    "LIFE": "LAte",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Solidago missouriensis",
+    "COMMON NAME": "Missouri goldenrod",
+    "BLOOM": "Jul\u2013SeP",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00cc \u00d8 P"
+  },
+  {
+    "SCIENTIFIC NAME": "Solidago spectabilis",
+    "COMMON NAME": "Nevada goldenrod",
+    "BLOOM": "aug\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P"
+  },
+  {
+    "SCIENTIFIC NAME": "Solidago velutina",
+    "COMMON NAME": "Threenerve goldenrod",
+    "BLOOM": null,
+    "LIFE": "LAtE",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L\u2013M"
+  },
+  {
+    "SCIENTIFIC NAME": "Solidago velutina ssp. californica",
+    "COMMON NAME": "California goldenrod",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013LAtE",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "M"
+  },
+  {
+    "SCIENTIFIC NAME": "Sphaeralcea ambigua",
+    "COMMON NAME": "Apricot mallow",
+    "BLOOM": null,
+    "LIFE": "earLy",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "e",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Sphaeralcea ambigua\u01ab",
+    "COMMON NAME": "Desert globemallow",
+    "BLOOM": "Mar\u2013aPr",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 O"
+  },
+  {
+    "SCIENTIFIC NAME": "Sphaeralcea coccinea\u01ab",
+    "COMMON NAME": "Scarlet globemallow",
+    "BLOOM": "aPr\u2013SeP",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 O"
+  },
+  {
+    "SCIENTIFIC NAME": "Sphaeralcea grossulariifolia\u01ab",
+    "COMMON NAME": "Gooseberry globemallow",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00cc \u00d8 O"
+  },
+  {
+    "SCIENTIFIC NAME": "Sporobolus airoides",
+    "COMMON NAME": "Alkali sacaton",
+    "BLOOM": "JuN-oct",
+    "LIFE": "P",
+    "FORM": "Z",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u014e"
+  },
+  {
+    "SCIENTIFIC NAME": "Stachys albens",
+    "COMMON NAME": "White hedge nettle",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": ">",
+    "ADDITIONAL DETAILS \u017e": "M\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Stanleya pinnata",
+    "COMMON NAME": "Desert prince's plume",
+    "BLOOM": "Mar\u2013aPr",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Symphyotrichum ascendens",
+    "COMMON NAME": "Long-leaved aster",
+    "BLOOM": "aug\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Symphyotrichum chilense",
+    "COMMON NAME": "California aster",
+    "BLOOM": null,
+    "LIFE": "LAte",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "=",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Tecoma stans",
+    "COMMON NAME": "Yellow bells",
+    "BLOOM": "aPr\u2013nOv",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Tetraneuris acaulis",
+    "COMMON NAME": "Angelita daisy",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Thelesperma megapotamicum",
+    "COMMON NAME": "Cota",
+    "BLOOM": "May\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Thymophylla pentachaeta",
+    "COMMON NAME": "Fiveneedle pricklyleaf",
+    "BLOOM": "May\u2013aug",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Trichostema lanatum",
+    "COMMON NAME": "Blue curls",
+    "BLOOM": null,
+    "LIFE": "LAtE",
+    "FORM": "P",
+    "SUN": "W",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Trichostema lanceolatum",
+    "COMMON NAME": "Vinegarweed",
+    "BLOOM": null,
+    "LIFE": "LAte",
+    "FORM": "A",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "L"
+  },
+  {
+    "SCIENTIFIC NAME": "Trifolium wormskioldii",
+    "COMMON NAME": "Cow clover",
+    "BLOOM": null,
+    "LIFE": "Mid",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "M\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Verbena lasiostachys",
+    "COMMON NAME": "Western vervain",
+    "BLOOM": null,
+    "LIFE": "Mid\u2013LAtE",
+    "FORM": "P",
+    "SUN": "F",
+    "SOIL": "<",
+    "ADDITIONAL DETAILS \u017e": "M\u2013H"
+  },
+  {
+    "SCIENTIFIC NAME": "Verbena macdougalii",
+    "COMMON NAME": "New Mexico verbena",
+    "BLOOM": "Jun\u2013Oct",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "\u00d6"
+  },
+  {
+    "SCIENTIFIC NAME": "Verbesina encelioides",
+    "COMMON NAME": "Crownbeard",
+    "BLOOM": "JuN\u2013aug",
+    "LIFE": "a",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Viguiera dentata",
+    "COMMON NAME": "Toothleaf goldeneye",
+    "BLOOM": "SeP\u2013Nov",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Wyethia amplexicaulis",
+    "COMMON NAME": "Mule-ears",
+    "BLOOM": "aPr\u2013May",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D, M",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Zinnia acerosa",
+    "COMMON NAME": "Desert zinnia",
+    "BLOOM": "JuN\u2013aug",
+    "LIFE": "P",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00cb"
+  }
+]

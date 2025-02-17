@@ -1,0 +1,502 @@
+[
+  {
+    "SCIENTIFIC NAME": "Acer rubrum",
+    "COMMON NAME": "Red maple",
+    "BLOOM": "Mar\u2013apr",
+    "LIFE": "p",
+    "FORM": "c",
+    "SUN": "\u025d \u025e",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Amelanchier canadensis",
+    "COMMON NAME": "Canadian serviceberry",
+    "BLOOM": "apr\u2013May",
+    "LIFE": "p",
+    "FORM": "c b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Asclepias incarnata\u01ab",
+    "COMMON NAME": "Swamp milkweed",
+    "BLOOM": "Jun\u2013Sep",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Asclepias syriaca",
+    "COMMON NAME": "Common milkweed",
+    "BLOOM": "Jun\u2013aug",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D\u2013M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Asclepias tuberosa",
+    "COMMON NAME": "Butterfly milkweed",
+    "BLOOM": "Jun\u2013aug",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Baptisia tinctoria\u01ab",
+    "COMMON NAME": "Yellow wild indigo",
+    "BLOOM": "Jun\u2013Aug",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Castanea pumila\u01ab",
+    "COMMON NAME": "Chinquapin",
+    "BLOOM": "Apr\u2013MAy",
+    "LIFE": "p",
+    "FORM": "c b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Ceanothus americanus",
+    "COMMON NAME": "New Jersey tea",
+    "BLOOM": "Jun\u2013Jul",
+    "LIFE": "p",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Cephalanthus occidentalis\u01ab",
+    "COMMON NAME": "Buttonbush",
+    "BLOOM": "Jun\u2013Aug",
+    "LIFE": "p",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Cercis canadensis",
+    "COMMON NAME": "Eastern redbud",
+    "BLOOM": "Mar\u2013apr",
+    "LIFE": "p",
+    "FORM": "c b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P O"
+  },
+  {
+    "SCIENTIFIC NAME": "Chamaecrista fasciculata",
+    "COMMON NAME": "Partridge pea",
+    "BLOOM": "Jul\u2013Sep",
+    "LIFE": "a",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Chrysopsis mariana",
+    "COMMON NAME": "Maryland goldenaster",
+    "BLOOM": "Jul\u2013Oct",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Conoclinium coelestinum",
+    "COMMON NAME": "Blue mistflower",
+    "BLOOM": "Jun\u2013aug",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025e \u025f",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Coreopsis lanceolata",
+    "COMMON NAME": "Lanceleaf coreopsis",
+    "BLOOM": "apr\u2013Jun",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Coreopsis verticillata",
+    "COMMON NAME": "Whorled tickseed",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Echinacea purpurea",
+    "COMMON NAME": "Purple coneflower",
+    "BLOOM": "Jun\u2013aug",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Eurybia macrophylla",
+    "COMMON NAME": "Bigleaf aster",
+    "BLOOM": "Jul\u2013Sep",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Eutrochium purpureum",
+    "COMMON NAME": "Sweetscented Joe Pye weed",
+    "BLOOM": "Jul\u2013aug",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 P"
+  },
+  {
+    "SCIENTIFIC NAME": "Gaillardia aristata",
+    "COMMON NAME": "Blanketflower",
+    "BLOOM": "apr\u2013May",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Gaylussacia baccata",
+    "COMMON NAME": "Black huckleberry",
+    "BLOOM": "May\u2013Jun",
+    "LIFE": "p",
+    "FORM": "b",
+    "SUN": "\u025d \u025e \u025f",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Helianthus divaricatus",
+    "COMMON NAME": "Woodland sunflower",
+    "BLOOM": "Jul\u2013Sep",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P"
+  },
+  {
+    "SCIENTIFIC NAME": "Hibiscus moscheutos",
+    "COMMON NAME": "Crimsoneyed rosemallow",
+    "BLOOM": "Jun\u2013aug",
+    "LIFE": "a / p",
+    "FORM": "b",
+    "SUN": "\u025d",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Iris versicolor",
+    "COMMON NAME": "Blueflag",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Liatris spicata",
+    "COMMON NAME": "Dense blazing star",
+    "BLOOM": "Jul\u2013Sep",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 P"
+  },
+  {
+    "SCIENTIFIC NAME": "Lobelia siphilitica",
+    "COMMON NAME": "Great blue lobelia",
+    "BLOOM": "Jun\u2013aug",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Monarda fistulosa",
+    "COMMON NAME": "Wild bergamot",
+    "BLOOM": "May\u2013Sep",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Monarda punctata",
+    "COMMON NAME": "Dotted mint",
+    "BLOOM": "Jun\u2013aug",
+    "LIFE": "a / p",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Opuntia humifusa",
+    "COMMON NAME": "Eastern pricklypear",
+    "BLOOM": "May\u2013Jul",
+    "LIFE": "p",
+    "FORM": "T",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Packera aurea",
+    "COMMON NAME": "Golden ragwort",
+    "BLOOM": "Mar\u2013apr",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e \u025f",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Penstemon digitalis\u01ab",
+    "COMMON NAME": "Smooth beard tongue",
+    "BLOOM": "Jun\u2013Jul",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Phlox divaricata",
+    "COMMON NAME": "Wild blue phlox",
+    "BLOOM": "Jun\u2013aug",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "\u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Prunus maritima\u01ab",
+    "COMMON NAME": "Beach plum",
+    "BLOOM": "MAy\u2013Jun",
+    "LIFE": "p",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Pycnanthemum tenuifolium\u01ab",
+    "COMMON NAME": "Narrowleaf mountain mint",
+    "BLOOM": "Jun\u2013Aug",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "\u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Rhododendron periclymenoides",
+    "COMMON NAME": "Pink azalea",
+    "BLOOM": "apr\u2013May",
+    "LIFE": "p",
+    "FORM": "b",
+    "SUN": "\u025d \u025e \u025f",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Rhus copallinum",
+    "COMMON NAME": "Winged sumac",
+    "BLOOM": "apr\u2013May",
+    "LIFE": "p",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 P"
+  },
+  {
+    "SCIENTIFIC NAME": "Ribes americanum",
+    "COMMON NAME": "American black currant",
+    "BLOOM": "May\u2013Jun",
+    "LIFE": "p",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Rosa carolina",
+    "COMMON NAME": "Pasture rose",
+    "BLOOM": "Jun\u2013aug",
+    "LIFE": "p",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 P O"
+  },
+  {
+    "SCIENTIFIC NAME": "Salix discolor\u01ab",
+    "COMMON NAME": "Pussy willow",
+    "BLOOM": "Feb\u2013Apr",
+    "LIFE": "p",
+    "FORM": "c b",
+    "SUN": "\u025d",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Senna marilandica",
+    "COMMON NAME": "Maryland senna",
+    "BLOOM": "Jun\u2013aug",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Solidago flexicaulis\u01ab",
+    "COMMON NAME": "Zigzag goldenrod",
+    "BLOOM": "Jul\u2013Sep",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P"
+  },
+  {
+    "SCIENTIFIC NAME": "Solidago sempervirens",
+    "COMMON NAME": "Seaside goldenrod",
+    "BLOOM": "Jul\u2013Sep",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Symphyotrichum cordifolium",
+    "COMMON NAME": "Common blue wood aster",
+    "BLOOM": "Jun\u2013aug",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P"
+  },
+  {
+    "SCIENTIFIC NAME": "Symphyotrichum lateriflorum",
+    "COMMON NAME": "Calico aster",
+    "BLOOM": "aug\u2013Oct",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P"
+  },
+  {
+    "SCIENTIFIC NAME": "Symphyotrichum novae-angliae\u01ab",
+    "COMMON NAME": "New England aster",
+    "BLOOM": "Aug\u2013Oct",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8 P"
+  },
+  {
+    "SCIENTIFIC NAME": "Tephrosia virginiana",
+    "COMMON NAME": "Virginia tephrosia",
+    "BLOOM": "apr\u2013Jul",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "D",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc"
+  },
+  {
+    "SCIENTIFIC NAME": "Tilia americana",
+    "COMMON NAME": "American basswood",
+    "BLOOM": "May\u2013Jun",
+    "LIFE": "p",
+    "FORM": "c",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Vaccinium corymbosum",
+    "COMMON NAME": "Wetbush blueberry",
+    "BLOOM": "Jun\u2013Jul",
+    "LIFE": "p",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Verbena hastata",
+    "COMMON NAME": "Swamp verbena",
+    "BLOOM": "Jul\u2013Sep",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d \u025e",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "\u00d6 \u00cc \u00d8"
+  },
+  {
+    "SCIENTIFIC NAME": "Veronicastrum virginicum",
+    "COMMON NAME": "Culver's root",
+    "BLOOM": "Jun\u2013aug",
+    "LIFE": "p",
+    "FORM": "a",
+    "SUN": "\u025d",
+    "SOIL": "M",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc \u00d8 P \u00cb"
+  },
+  {
+    "SCIENTIFIC NAME": "Viburnum dentatum\u01ab",
+    "COMMON NAME": "Southern arrowwood",
+    "BLOOM": "Apr\u2013MAy",
+    "LIFE": "P",
+    "FORM": "b",
+    "SUN": "\u025d \u025e",
+    "SOIL": "W",
+    "ADDITIONAL DETAILS \u017e": "F \u00cc"
+  }
+]
